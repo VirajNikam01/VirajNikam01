@@ -18,7 +18,7 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
 
 **Tools :** `Windows` `VS-Code` `Compass`
 
-**Packages :** `zod` `Socket.io` `react-hook-form`
+**Packages :** `zod` `Socket.io` `mongoose`
 
  
 ## ✨ Fun Facts 
