@@ -24,7 +24,7 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
 ## ✨ Fun Facts 
 
 - I think I'm hungry about tech.
-- As a kid, I wanted to be an pilot.
+- As a kid, I wanted to be an astronaut.
 
 ## 📫 Contact
 
