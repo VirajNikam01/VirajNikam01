@@ -4,19 +4,15 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
 
 ## 📦 Toolbox
 
-**Frontend Development :** `HTML` `CSS` `JavaScript` `ReactJs` `NextJs` `TypeScript` `Tailwind` `radix`
+**Frontend Development :** `HTML` `CSS` `JavaScript` `ReactJs` `NextJs` `TypeScript` `Tailwind` 
 
 **Backend Development :** `JavaScript` `TypeScript` `NodeJs`
 
 **Database Management :** `Mongodb` 
 
-**Cloud Servers :** `GitHub Pages` `Firebase`
-
 **Version Control :** `Git` 
 
-**Testing :** `Jest`
-
-**Tools :** `Windows` `VS-Code` `Compass`
+**Tools :** `npm` `VS-Code` 
 
 **Packages :** `zod` `Socket.io` `mongoose`
 
@@ -24,10 +20,8 @@ I'm a 23-year-old developer based in India, and I'm passionate about crafting di
 ## ✨ Fun Facts 
 
 - I think I'm hungry about tech.
-- As a kid, I wanted to be an astronaut.
 
 ## 📫 Contact
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/virajnikam/). 
  
- <p align="right" > Created with 🧡 by Viraj Nikam</p>
