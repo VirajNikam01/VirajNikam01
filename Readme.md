@@ -5,7 +5,7 @@
 const developer = {
  name : 'Viraj Nikam',
  location : 'Pune',
- isCoding : true
+ isCoding : true,
  skills : ['React', 'Typescript', 'Next', 'Node.js', 'express', 'tailwind']
 }
 ```
